@@ -37,12 +37,12 @@ author: CollectionBuilder
 metadata: Taschenbucher_SamRemondi 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
+#page_gen:
+#  - data: 'demo-metadata'
+#    template: 'item'
+#    name: 'objectid'
+#    dir: 'items'
+#    extension: 'html' 
 #     filter: 'objectid'  
 
 ##########
