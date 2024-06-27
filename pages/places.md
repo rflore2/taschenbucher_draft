@@ -1,10 +1,10 @@
 ---
-title: Locations
+title: Place
 layout: cloud
-permalink: /locations.html
+permalink: /places.html
 # Default locations page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.locations-fields"
-cloud-fields: site.data.theme.locations-fields
+cloud-fields: site.data.theme.places-fields
 ---
 
 ## Browse Locations
