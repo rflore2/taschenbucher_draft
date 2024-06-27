@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,ID,,,,
+display_template,Record,,,,
 title,Title,,,DCTERMS.title,headline
 date,Date,true,,DCTERMS.date,dateCreated
 location,Place,true,,,contentLocation
