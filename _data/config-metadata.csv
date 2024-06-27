@@ -1,17 +1,15 @@
-field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,ID,,,,
-display_template,Record,,,,
-title,Title,,,DCTERMS.title,headline
-date,Date,true,,DCTERMS.date,dateCreated
-location,Place,true,,,contentLocation
-publisher,Publisher,true,,,
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-subject,Genres,true,,DCTERMS.subject,keywords
-editor,Editor,true,,,
-creator,Contributors,,,DCTERMS.creator,creator
-note,Notes,,,,
-call_number,Call#,,,,
-provenance,Provenance,,,,
-binding_description,Binding,,,,
-local_note,Copy,,,,
+field,display_name,browse_link,external_link
+title,Title,,
+date,Date,,
+location,Location,,
+publisher,Publisher,,
+longitude,Longitude,,
+latitude,Latitude,,
+subject,Genre,true,
+editor,Editor,
+creator,Contributor,true
+note,Note,,
+call_number,Call Number,
+provenance,Provenance,
+binding_description,Binding,
+local_note,Copy-Specific Data,,

@@ -3,5 +3,5 @@ title,Title,true
 date,Date,true
 creator,Contributors,true
 editor,Editor,true
-subject,Genres,true
-location,Place,true
+subject,Genre,true
+location,Location,true
