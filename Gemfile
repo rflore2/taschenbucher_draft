@@ -6,6 +6,7 @@ unless Gem.win_platform?
   gem 'image_optim'
   gem 'image_optim_pack'
 end
+gem 'bundler'
 gem 'csv'
 gem 'jekyll'
 gem 'mini_magick'
